@@ -6,7 +6,7 @@ photos:
 tags:
  - Lambda
  - AWS
- - Kinesis Firehose
+ - KinesisFirehose
  - S3
  - AuroraDB
 ---

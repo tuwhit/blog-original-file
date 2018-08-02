@@ -1,17 +1,17 @@
 ---
 title: Principles of Effective Story Writing - The Pivotal Labs Way
-date: 2018-08-02 20:51:29
+date: 2018-08-01 20:51:29
 photos:
  - /images/pivotal.png
 tags:
-- pivotal tracker
-- pivotal labs
-- 유저 중심 스토리
+- PivotalTracker
+- PivotalLabs
+- 유저중심스토리
 ---
 ----------------------
 [pivotal labs에서 pivotal tracker를 이용하여 효과적으로 스토리를 작성하는 방법](https://www.pivotaltracker.com/blog/principles-of-effective-story-writing-the-pivotal-labs-way/)에 대한 아티클을 대충 번역해서 정리해봄.
 
-![Trigger 추가](/images/pivotal.png)
+![](/images/pivotal.png)
 
 ### 스토리란?
 

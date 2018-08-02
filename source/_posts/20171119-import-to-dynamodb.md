@@ -5,7 +5,7 @@ photos:
  - /images/Cb272ufUYAAgr6i.jpg
 tags:
  - DynamoDB
- - Data Pipeline
+ - DataPipeline
  - S3
  - AWS
 ---
